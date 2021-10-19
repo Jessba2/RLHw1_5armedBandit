@@ -70,3 +70,4 @@ plt.plot(x, z, "blue", label = '0.02')
 plt.plot(x, v, "green", label = '0.4')
 plt.legend(title='Epsilon value')
 plt.show()
+#test git
